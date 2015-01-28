@@ -1,0 +1,57 @@
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+#search {
+	display: inline-block;
+}
+
+
+#Header {
+	font-family: 'Francois One', sans-serif;
+}
+
+#results-table {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	font-size: 1.5em;
+	border: 1px solid gray;
+	background-color: blue;
+}
+
+
+
+.title-row {
+	width: auto;
+	text-align: center;
+}
+
+.title-row > tr > .header {
+	text-align: center;
+	margin: 0 auto;
+	padding: 0;
+	width: auto;
+	background-color: black;
+	color: white;
+}
+
+#table-row > tr > td {
+	text-align: center;
+	width: 50%;
+	margin: 0;
+	padding: 0;
+	border: 1px solid black;
+	background-color: gray;
+}
+
+
+
+#table-row .populate{
+	text-align: center;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	border: 1px solid gray;
+}
+
